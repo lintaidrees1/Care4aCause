@@ -1,1 +1,2 @@
 # Care4aCause
+This is donation website where donor donate directly to projects requested from organisations. There are three users in this application. Admin, Organisation and Donor. Organisation can submit request a project in which they wrote down the detail for why money is needed for this project. Admin have all access and perform crud operation on organisation and donor. Donor can donate on projects. There is stripe payment gateway integrated with application.
